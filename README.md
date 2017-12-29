@@ -32,9 +32,8 @@ npm run build
 ### Dynamically Load Script
 
 ```
-(function(){var script = document.createElement("script");script.src = "https://intl.rakuten-static.com/b/gb/image/eucwd-testing/shared-header/main-a51e160f2bcc839d0b44.js";document.head.appendChild(script);})();
+(function(){var script = document.createElement("script");script.src = "https://intl.rakuten-static.com/b/gb/image/eucwd-testing/shared-header/main-f5763145aaf26b35b32a.js";document.head.appendChild(script);})();
 ```
-
 
 ### Changelog
 

@@ -4,7 +4,7 @@
 //require( '../../node_modules/bootstrap-sass/assets/javascripts/bootstrap.js' );   // <--- remove if Bootstrap's JS not needed
 
 var Elm = require('../elm/Main');
-var element = document.createElement("div");
+var element = document.createElement("experimentalHeader");
 // parent.setAttribute(name, value);
-document.body.prepend(element);
+document.body.append(element);
 Elm.Main.embed(element);
